@@ -40,7 +40,7 @@ ai-chatbot
 └── README.md
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/openrouter-ai-chatbot.git
+git clone https://github.com/athulall/openrouter-ai-chatbot.git
 2️⃣ Install dependencies
 
 Frontend
